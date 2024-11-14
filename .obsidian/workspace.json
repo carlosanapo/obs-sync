@@ -1,0 +1,261 @@
+{
+  "main": {
+    "id": "2e8cad2af900fdc6",
+    "type": "split",
+    "children": [
+      {
+        "id": "818a2ba93ea42b80",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "398b84d3c286b306",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Inverse problem.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Inverse problem"
+            }
+          },
+          {
+            "id": "2ed6aab3b8e0f621",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Supersonic Under-expanded Jet theory.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Supersonic Under-expanded Jet theory"
+            }
+          },
+          {
+            "id": "3580732daa5e00cd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "scaranoIterativeImageDeformation2001.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "scaranoIterativeImageDeformation2001"
+            }
+          },
+          {
+            "id": "b4263f72f5f77556",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Introduction.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Introduction"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0e49c4dbbb512ff2",
+    "type": "split",
+    "children": [
+      {
+        "id": "835558699d16c47f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "76eac0be78532bbe",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "a3979af80641c576",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#Maintextsection",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "199df2ac6c1f0fcc",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "ffe4b560fc8f88cb",
+    "type": "split",
+    "children": [
+      {
+        "id": "ab969d98ab4f5f48",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ed1ce1322f76aa91",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "FRIA/Differences with respect to 2023.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Differences with respect to 2023"
+            }
+          },
+          {
+            "id": "7c1e216961a14931",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "FRIA/Differences with respect to 2023.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Differences with respect to 2023"
+            }
+          },
+          {
+            "id": "8154caecff967736",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "aa692cf6e007a7a8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "LOSSPREVENTION/structure.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of structure"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-full-calendar:Open Full Calendar": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "b4263f72f5f77556",
+  "lastOpenFiles": [
+    "scaranoIterativeImageDeformation2001.md",
+    "Introduction.md",
+    "Dispersion",
+    "postprocessing_june2024/CEA Deliverable - 1st intermediate report.md",
+    "Supersonic Under-expanded Jet theory.md",
+    "Untitled.canvas",
+    "Untitled 1.canvas",
+    "Inverse problem.md",
+    "Untitled",
+    "jet theory",
+    "template/2024-11-10.md",
+    "Extinction Spectroscopy data processing in python.md",
+    "2024-11-02.md",
+    "prova.md",
+    "template/Date {{date}}.md",
+    "Extinction Spectroscopy/Some sparse ideas.md",
+    "horvathDevelopmentApplicationsLight.md",
+    "First usage of the Copilot.md",
+    "template",
+    "Excalidraw/Drawing 2024-11-02 16.42.35.excalidraw.md",
+    "Excalidraw/Drawing 2024-11-01 10.42.32.excalidraw.md",
+    "Excalidraw/Drawing 2024-11-01 10.37.40.excalidraw.md",
+    "My Calendar/2024-11-20.md",
+    "LOSSPREVENTION/structure.md",
+    "LOSSPREVENTION/Intro.md",
+    "LOSSPREVENTION/Proviamo.md",
+    "LOSSPPREVENTION/Intro.md",
+    "LOSSPPREVENTION",
+    "LOSSPREVENTION",
+    "My Calendar/PP",
+    "My Calendar/2024-11-02.md",
+    "FRIA/Differences with respect to 2023.md",
+    "FRIA/TODO.md",
+    "FRIA/Main text section.md",
+    "Untitled/Pasted image 20240529195625.png",
+    "Untitled/Pasted image 20240529195512.png",
+    "Untitled/Pasted image 20240527193332.png",
+    "Untitled/Pasted image 20240527193302.png",
+    "Untitled/Pasted image 20240527191800.png",
+    "Untitled/Pasted image 20240527191041.png",
+    "Untitled/Pasted image 20240527191002.png",
+    "Untitled/Pasted image 20240529195640.png",
+    "Excalidraw",
+    "LXLISBON/Untitled.canvas",
+    "FRIA",
+    "Extinction Spectroscopy",
+    "Untitled/Pasted image 20240527192522.png"
+  ]
+}
