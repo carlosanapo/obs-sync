@@ -3,7 +3,7 @@
   "obsidian-tasks-plugin",
   "obsidian-excalidraw-plugin",
   "obsidian-zotero-desktop-connector",
-  "github-copilot",
   "dataview",
-  "templater-obsidian"
+  "templater-obsidian",
+  "github-copilot"
 ]

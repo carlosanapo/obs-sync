@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inverse problem.md",
+                "file": "LOSSPREVENTION/Introduction.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Inverse problem"
+              "title": "Introduction"
             }
           },
           {
@@ -39,14 +39,10 @@
             "id": "3580732daa5e00cd",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "scaranoIterativeImageDeformation2001.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "scaranoIterativeImageDeformation2001"
+              "title": "New tab"
             }
           },
           {
@@ -55,7 +51,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Introduction.md",
+                "file": "LOSSPREVENTION/Introduction.md",
                 "mode": "source",
                 "source": false
               },
@@ -63,8 +59,7 @@
               "title": "Introduction"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -182,10 +177,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LOSSPREVENTION/structure.md"
+                "file": "LOSSPREVENTION/Introduction.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of structure"
+              "title": "Outline of Introduction"
             }
           }
         ],
@@ -193,48 +188,50 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
+    "width": 284,
     "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-full-calendar:Open Full Calendar": false,
+      "copilot:Copilot Chat": false,
+      "templater-obsidian:Templater": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "templater-obsidian:Templater": false
+      "obsidian-full-calendar:Open Full Calendar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "b4263f72f5f77556",
+  "active": "398b84d3c286b306",
   "lastOpenFiles": [
-    "scaranoIterativeImageDeformation2001.md",
-    "Introduction.md",
-    "Dispersion",
-    "postprocessing_june2024/CEA Deliverable - 1st intermediate report.md",
+    "Inverse problem.md",
+    "LOSSPREVENTION/Introduction.md",
     "Supersonic Under-expanded Jet theory.md",
+    "LOSSPREVENTION/Intro.md",
+    "postprocessing_june2024/CEA Deliverable - 1st intermediate report.md",
+    "horvathDevelopmentApplicationsLight.md",
+    "prova.md",
+    "scaranoIterativeImageDeformation2001.md",
+    "Extinction Spectroscopy data processing in python.md",
+    "First usage of the Copilot.md",
+    "Dispersion",
     "Untitled.canvas",
     "Untitled 1.canvas",
-    "Inverse problem.md",
     "Untitled",
     "jet theory",
     "template/2024-11-10.md",
-    "Extinction Spectroscopy data processing in python.md",
     "2024-11-02.md",
-    "prova.md",
     "template/Date {{date}}.md",
     "Extinction Spectroscopy/Some sparse ideas.md",
-    "horvathDevelopmentApplicationsLight.md",
-    "First usage of the Copilot.md",
     "template",
     "Excalidraw/Drawing 2024-11-02 16.42.35.excalidraw.md",
     "Excalidraw/Drawing 2024-11-01 10.42.32.excalidraw.md",
     "Excalidraw/Drawing 2024-11-01 10.37.40.excalidraw.md",
     "My Calendar/2024-11-20.md",
     "LOSSPREVENTION/structure.md",
-    "LOSSPREVENTION/Intro.md",
     "LOSSPREVENTION/Proviamo.md",
     "LOSSPPREVENTION/Intro.md",
     "LOSSPPREVENTION",
