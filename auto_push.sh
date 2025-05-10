@@ -7,11 +7,11 @@ set -e
 # cd /path/to/your/repo
 
 # Ask for confirmation
-read -p "Do you want to commit and push all local changes to 'main'? (y/): " confirm
-if [[ "$confirm" != "y" && "$confirm" != "Y" ]]; then
-    echo "Aborted."
-    exit 0
-fi
+#read -p "Do you want to commit and push all local changes to 'main'? (y/n): " confirm
+#if [[ "$confirm" != "y" && "$confirm" != "Y" ]]; then
+#    echo "Aborted."
+#    exit 0
+#fi
 
 # Add all changes
 git add .
