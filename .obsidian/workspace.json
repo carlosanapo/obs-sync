@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DIOCANAGLIA.md",
+                "file": "cartella prova/DIOCANAGLIA.md",
                 "mode": "source",
                 "source": false
               },
@@ -222,10 +222,11 @@
       "obsidian-shellcommands:Shell commands: Custom variables": false
     }
   },
-  "active": "349a0ea0b899991f",
+  "active": "76eac0be78532bbe",
   "lastOpenFiles": [
+    "Untitled.md",
+    "cartella prova/DIOCANAGLIA.md",
     "LOSSPREVENTION/Introduction.md",
-    "DIOCANAGLIA.md",
     "cartella prova",
     "Inverse problem.md",
     "Supersonic Under-expanded Jet theory.md",
@@ -258,7 +259,6 @@
     "My Calendar/2024-11-02.md",
     "FRIA/Differences with respect to 2023.md",
     "FRIA/TODO.md",
-    "FRIA/Main text section.md",
     "Untitled/Pasted image 20240529195625.png",
     "Untitled/Pasted image 20240529195512.png",
     "Untitled/Pasted image 20240527193332.png",
