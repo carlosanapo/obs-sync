@@ -31,7 +31,7 @@
       "shells": {},
       "alias": "push_repo",
       "icon": null,
-      "confirm_execution": false,
+      "confirm_execution": true,
       "ignore_error_codes": [],
       "input_contents": {
         "stdin": null
@@ -67,7 +67,7 @@
       "shells": {},
       "alias": "pull_repo",
       "icon": null,
-      "confirm_execution": false,
+      "confirm_execution": true,
       "ignore_error_codes": [],
       "input_contents": {
         "stdin": null
