@@ -4,59 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "818a2ba93ea42b80",
+        "id": "eb4f1087abd07e9e",
         "type": "tabs",
         "children": [
           {
-            "id": "398b84d3c286b306",
+            "id": "ef770f6417555309",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Extinction Spectroscopy/Some sparse ideas.md",
+                "file": "notes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Some sparse ideas"
-            }
-          },
-          {
-            "id": "2ed6aab3b8e0f621",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Supersonic Under-expanded Jet theory.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Supersonic Under-expanded Jet theory"
-            }
-          },
-          {
-            "id": "3580732daa5e00cd",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
-            "id": "b4263f72f5f77556",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "LOSSPREVENTION/Introduction.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Introduction"
+              "title": "notes"
             }
           }
         ]
@@ -202,16 +164,21 @@
       "command-palette:Open command palette": false,
       "obsidian-full-calendar:Open Full Calendar": false,
       "templater-obsidian:Templater": false,
-      "obsidian-shellcommands:Shell commands: Custom variables": false
+      "obsidian-shellcommands:Shell commands: Custom variables": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "398b84d3c286b306",
+  "active": "ef770f6417555309",
   "lastOpenFiles": [
+    "notes.md",
+    "Supersonic Under-expanded Jet theory.md",
+    "PERSONAL/DIOCANAGLIA.md",
+    "PAPER/03-ExperimentsInFluids",
+    "Extinction Spectroscopy/Some sparse ideas.md",
     "My Calendar/2024-11-20.md",
     "template/2024-11-10.md",
     "PAPER",
     "template/Date {{date}}.md",
-    "Supersonic Under-expanded Jet theory.md",
     "2024-11-02.md",
     "Extinction Spectroscopy data processing in python.md",
     "ILL-COND/Condition number.md",
@@ -219,14 +186,12 @@
     "ILL-COND/Inverse problem.md",
     "ILL-COND",
     "provinellino.md",
-    "PAPER/LOSSPREVENTION/Introduction.md",
-    "Untitled.md",
+    "PAPER/02-LOSSPREVENTION/Introduction.md",
     "Excalidraw/Drawing 2024-11-02 16.42.35.excalidraw.md",
     "Excalidraw/Drawing 2024-11-01 10.42.32.excalidraw.md",
     "Excalidraw/Drawing 2024-11-01 10.37.40.excalidraw.md",
-    "PERSONAL/DIOCANAGLIA.md",
     "PERSONAL",
-    "PAPER/LOSSPREVENTION/Intro.md",
+    "PAPER/02-LOSSPREVENTION/Intro.md",
     "postprocessing_june2024/CEA Deliverable - 1st intermediate report.md",
     "prova.md",
     "scaranoIterativeImageDeformation2001.md",
@@ -235,13 +200,12 @@
     "Untitled.canvas",
     "Untitled 1.canvas",
     "jet theory",
-    "Extinction Spectroscopy/Some sparse ideas.md",
     "template",
-    "PAPER/LOSSPREVENTION/structure.md",
+    "PAPER/02-LOSSPREVENTION/structure.md",
     "LOSSPREVENTION/Proviamo.md",
     "LOSSPPREVENTION/Intro.md",
     "LOSSPPREVENTION",
-    "PAPER/LOSSPREVENTION",
+    "PAPER/02-LOSSPREVENTION",
     "My Calendar/PP",
     "Untitled/Pasted image 20240529195625.png",
     "Untitled/Pasted image 20240529195512.png",
@@ -251,8 +215,7 @@
     "Untitled/Pasted image 20240527191041.png",
     "Untitled/Pasted image 20240527191002.png",
     "Untitled/Pasted image 20240529195640.png",
-    "Excalidraw",
-    "PAPER/LXLISBON/Untitled.canvas",
+    "PAPER/01-LXLISBON/Untitled.canvas",
     "Untitled/Pasted image 20240527192522.png"
   ]
 }
