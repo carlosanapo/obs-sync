@@ -1,9 +1,8 @@
-The following document is a summary of the theory behind supersonic underexpanded jets.
-
-The summary is based on the detailed description provide by Stephen B. Pope in his book "Turbulent Flows" (2000).
-
-Specifically we resume part of Chapter 5 "Free Shear Flow" of this book. It is worth mentioning that the detailed theory provided is based on a general jet theory, a direct application to the supersonic underexpanded jet may not be completely accurate.
-
+In underexpanded conditions, the exit velocity of supersonic jets issuing from a straight, sharp-edged orifice nozzle, is primarily governed by the upstream total pressure $p_0$ and total temperature $T_0$.  For sufficiently high pressure ratios $p_0/p_{\infty}$, the flow becomes choked at the nozzle exit, resulting in sonic condition $Ma_e =1$. The exit velocity can be estimated from isentropic flow relations as
+$$
+u_e = \sqrt{ \frac{2 \gamma R T_0}{\gamma + 1} }​​
+$$
+indicating a direct dependence on total temperature​ and thermodynamic gas properties and no sensitivity to downstream ambient conditions ($p_{\infty}$, $T_{\infty}$) once choking occurs. In the present experiments, the jet is strongly underexpanded, and choking at the orifice exit is assumed. Accordingly, exit velocity estimates are based on upstream total conditions.
 
 ---
 Total pressure: 500000 Pa

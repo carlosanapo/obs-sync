@@ -1,7 +1,8 @@
 {
   "accentColor": "",
-  "cssTheme": "Catppuccin",
-  "monospaceFontFamily": "MesloLGS Nerd Font Mono",
-  "textFontFamily": "MesloLGS Nerd Font Mono",
-  "interfaceFontFamily": "MesloLGS Nerd Font Mono"
+  "cssTheme": "",
+  "monospaceFontFamily": "Arial,MesloLGS Nerd Font Mono,Roboto Mono Light for Powerline",
+  "textFontFamily": "Arial,MesloLGS Nerd Font Mono,Roboto Mono Light for Powerline",
+  "interfaceFontFamily": "Arial,MesloLGS Nerd Font Mono,Roboto Mono Light for Powerline",
+  "theme": "obsidian"
 }

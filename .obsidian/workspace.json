@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PAPER/03-ExperimentsInFluids/main.md",
+                "file": "Supersonic Under-expanded Jet theory.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "main"
+              "title": "Supersonic Under-expanded Jet theory"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 204.50261688232422
   },
   "right": {
     "id": "ffe4b560fc8f88cb",
@@ -164,18 +164,27 @@
       "command-palette:Open command palette": false,
       "obsidian-full-calendar:Open Full Calendar": false,
       "templater-obsidian:Templater": false,
-      "obsidian-shellcommands:Shell commands: Custom variables": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-shellcommands:Shell commands: Custom variables": false
     }
   },
   "active": "70ef3319ece425e8",
   "lastOpenFiles": [
-    "Untitled.md",
-    "PAPER/03-ExperimentsInFluids/main.md",
-    "PAPER/03-ExperimentsInFluids/Introduction.md",
-    "PAPER/03-ExperimentsInFluids/Experimental setup/Imaging system.md",
+    "notes.md",
+    "template/Date {{date}}.md",
+    "2025-05-12.md",
+    "template/2024-11-10.md",
+    "PAPER/01-LXLISBON/Paper/Notes & To-Do list.md",
+    "PAPER/01-LXLISBON/Day 1.md",
+    "PAPER/01-LXLISBON/Untitled.canvas",
+    "PAPER/03-ExperimentsInFluids/Mie/mie.md",
     "PAPER/03-ExperimentsInFluids/Experimental setup/L1b.md",
+    "PAPER/03-ExperimentsInFluids/Mie",
+    "PAPER/03-ExperimentsInFluids/Experimental setup/Imaging system.md",
     "PAPER/03-ExperimentsInFluids/Experimental setup/Facility.md",
+    "PAPER/03-ExperimentsInFluids/Introduction.md",
+    "PAPER/03-ExperimentsInFluids/main.md",
+    "Untitled.md",
     "PAPER/03-ExperimentsInFluids/Experimental setup",
     "Experimental Setup.md",
     "Experiments_in_Fluids/Introduction.md",
@@ -186,20 +195,12 @@
     "PAPER/02-LOSSPREVENTION/structure.md",
     "PAPER/02-LOSSPREVENTION/Introduction.md",
     "PAPER/02-LOSSPREVENTION/Intro.md",
-    "PAPER/01-LXLISBON/Paper/Notes & To-Do list.md",
-    "PAPER/01-LXLISBON/Day 1.md",
     "postprocessing_june2024/CEA Deliverable - 1st intermediate report.md",
-    "2025-05-12.md",
-    "notes.md",
     "Supersonic Under-expanded Jet theory.md",
-    "template/2024-11-10.md",
-    "template/Date {{date}}.md",
     "PERSONAL/DIOCANAGLIA.md",
     "PAPER/03-ExperimentsInFluids",
     "PAPER",
     "2024-11-02.md",
-    "Extinction Spectroscopy data processing in python.md",
-    "horvathDevelopmentApplicationsLight.md",
     "ILL-COND",
     "PERSONAL",
     "Dispersion",
@@ -207,7 +208,6 @@
     "Untitled 1.canvas",
     "jet theory",
     "template",
-    "LOSSPPREVENTION",
     "Untitled/Pasted image 20240529195625.png",
     "Untitled/Pasted image 20240529195512.png",
     "Untitled/Pasted image 20240527193332.png",
@@ -216,7 +216,6 @@
     "Untitled/Pasted image 20240527191041.png",
     "Untitled/Pasted image 20240527191002.png",
     "Untitled/Pasted image 20240529195640.png",
-    "PAPER/01-LXLISBON/Untitled.canvas",
     "Untitled/Pasted image 20240527192522.png"
   ]
 }
