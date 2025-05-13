@@ -6,6 +6,7 @@
 - Objective: describe novel large-scale experimental setup using combined PIV + Mie scattering
 - Overview of paper structure
 
+	## jet theory
 ---
 # Experimental setup
 ##  Facility

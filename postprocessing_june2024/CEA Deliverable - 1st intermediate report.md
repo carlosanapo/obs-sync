@@ -4,7 +4,7 @@
 - [ ] Experimental setup
 	- [ ] Photo from the lab
 	- [ ] Digital version .svg
-- [ ] [[Supersonic Under-expanded Jet theory]]
+- [ ] [[Supersonic Underexpanded Jet theory]]
 - [ ] Pressure - Take from the lab WS
 - [ ] Temperature - Take from the lab WS
 - [ ] Severity of under-expansion (isentropic relations) - link to LENI work

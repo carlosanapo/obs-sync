@@ -2,17 +2,24 @@ In underexpanded conditions, the exit velocity of supersonic jets issuing from a
 $$
 u_e = \sqrt{ \frac{2 \gamma R T_0}{\gamma + 1} }​​
 $$
-indicating a direct dependence on total temperature​ and thermodynamic gas properties and no sensitivity to downstream ambient conditions ($p_{\infty}$, $T_{\infty}$) once choking occurs. In the present experiments, the jet is strongly underexpanded, and choking at the orifice exit is assumed. Accordingly, exit velocity estimates are based on upstream total conditions.
+indicating a direct dependence on total temperature​ and thermodynamic gas properties and no sensitivity to downstream ambient conditions ($p_{\infty}$, $T_{\infty}$) once choking occurs. 
+In the present  case the total temperature conditions are kept the same for the three different total pressure conditions tested: the exit velocity  remains the same and will be used to adimensionalize from now on the resulting velocity fields. 
+The underexpansion severity is defined by the ratio of the outlet nozzle static pressure to the ambient pressure in which the jet is being issued. A non dimensional number can be defined, named here jet pressure ratio as
+$$
+\eta_j = p/p_\infty
+$$
+Along with the previous one it is useful the definition of a number which could relate the total upstream condition to the discharging ambient one
+$$
+\eta_0 = p_0/p_\infty
+$$
 
----
-Total pressure: 500000 Pa
-Total density: 6.07 kg/m^3
-Total temperature: 287 K
-Throat pressure: 264140.89 Pa
-Throat density: 3.85 kg/m^3
-Throat temperature: 239.17 K
-Velocity: 310.00 m/s
-Kinematic viscosity: 4.01e-06 m^2/s
+For a straight orifice nozzle the condition for which the the flow is underexpanded at the nozzle exit appears when $\eta_0 \geq \eta_j$. Once that condition is valid, controlling the upstream total pressure will control the severity of underexpansion. With respect to $\eta_j$ , three main grade of underexpansion could be define. moderate underexpanded $1.1 \geq \eta_j \geq 3$ , highly underexpanded jet $3 \geq \eta_j \geq 4$ and extremely underexpanded jet $\eta_j \geq 4$.
+
+Directly associated to the severity  of underexpansion we found the structure of the potential core of the jet. 
+
+going from a weak underexpansion towards a higly underexpanded jet, 
+
+
 Reynolds number: 386484
 -----------------------------------
 Total pressure: 700000 Pa
@@ -107,3 +114,33 @@ $$
 \end{array}
 $$
 
+---
+---
+---
+# supersonic underexpanded jet theory
+
+Underexpansion refers to the condition in which the static pressure at the nozzle exit exceeds the pressure of the surrounding medium into which the jet discharges. In this study, the discharge occurs directly into the ambient environment, denoted by the subscript $\infty$ , though the concept more broadly applies to any external pressure field encountered by the jet at exit.
+As a consequence of underexpanded conditions, the exit velocity of supersonic jets issuing from a straight, sharp-edged orifice nozzle is primarily governed by the upstream total pressure $p_0$ and total temperature $T_0$. For sufficiently high pressure ratios, defined as $\eta_0 = p_0 / p_\infty$, the flow becomes choked at the nozzle exit, resulting in a sonic condition ($Ma = 1$). In this regime, the exit velocity can be estimated using isentropic flow relations:
+
+\begin{equation}
+u_e = \sqrt{ \frac{2 \gamma R T_0}{\gamma + 1} },
+\end{equation}
+
+indicating a direct dependence on the total temperature and thermodynamic gas properties, and no dependence on downstream conditions ($p_\infty$, $T_\infty$) once choking occurs.
+
+In the present study, the total temperature $T_0$ is held constant across the three tested total pressure levels. As a result, the exit velocity $u_e$ remains unchanged and is used as the reference velocity to non-dimensionalize the measured velocity fields throughout the analysis.
+
+The severity of underexpansion is determined by the mismatch between the nozzle exit static pressure $p$ and the external pressure $p_\infty$. To quantify this, a jet pressure ratio is introduced:
+
+\begin{equation}
+\eta_j = \frac{p}{p_\infty}.
+\end{equation}
+
+Underexpanded conditions exist when $\eta_0 \geq \eta_j$, and in such cases, the upstream total pressure directly controls the extent of underexpansion through its influence on the static pressure at the nozzle exit. Based on the value of $\eta_j$, the following classification is adopted:
+\begin{itemize}
+  \item \textbf{Moderately underexpanded:} $1.1 \leq \eta_j < 3$,
+  \item \textbf{Highly underexpanded:} $3 \leq \eta_j < 4$,
+  \item \textbf{Extremely underexpanded:} $\eta_j \geq 4$.
+\end{itemize}
+
+The structure and extent of the jet's potential core are strongly linked to the degree of underexpansion. As the flow transitions from moderate to extreme conditions, marked changes in the shock-cell pattern, jet expansion rate, and potential core length are observed.
