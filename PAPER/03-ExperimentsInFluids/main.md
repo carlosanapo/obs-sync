@@ -1,4 +1,4 @@
-# [[PAPER/03-ExperimentsInFluids/Introduction|Introduction]]
+# [[PAPER/03-ExperimentsInFluids/Introduction/Introduction|Introduction]]
 
 - Context: supersonic jet dispersion in realistic atmospheric conditions
 - Challenges in experimental characterization (non-homogeneity, large FOV)
