@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PAPER/03-ExperimentsInFluids/Introduction/Mach explanation outlet.md",
+                "file": "PAPER/03-ExperimentsInFluids/Introduction/Supersonic Underexpanded Jet theory.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Mach explanation outlet"
+              "title": "Supersonic Underexpanded Jet theory"
             }
           }
         ],
@@ -185,8 +185,8 @@
   },
   "active": "05f89975a76a8503",
   "lastOpenFiles": [
-    "PAPER/03-ExperimentsInFluids/Introduction/Supersonic Underexpanded Jet theory.md",
     "PAPER/03-ExperimentsInFluids/Introduction/Mach explanation outlet.md",
+    "PAPER/03-ExperimentsInFluids/Introduction/Supersonic Underexpanded Jet theory.md",
     "Untitled.md",
     "notes.md",
     "PAPER/03-ExperimentsInFluids/Introduction/Introduction.md",
